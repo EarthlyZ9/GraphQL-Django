@@ -1,0 +1,18 @@
+[
+  {
+    "fields": {
+      "name": "Jisoo Lee",
+      "email": "linda2927@naver.com"
+    },
+    "model": "users.user",
+    "pk": 1
+  },
+  {
+    "fields": {
+      "name": "Z9",
+      "email": "earthlyz9.dev@gmail.com"
+    },
+    "model": "users.user",
+    "pk": 2
+  }
+]
